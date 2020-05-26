@@ -1,0 +1,1 @@
+this.ola2='Acessando pelo Index.js'
